@@ -5,3 +5,12 @@
 .cover-fit{
      object-fit: cover;
 }
+.bullets-none{                        /* for li decoration none */
+       list-style-type: none;
+}
+.rounded-9{                            /* for more Radius */
+     border-radius: 40px;
+}
+.shadow-20{
+     box-shadow: 15px 10px 20px gray;      /* for highlighted box-shadow */
+}
