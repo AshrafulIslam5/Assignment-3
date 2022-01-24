@@ -1,9 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+
+/*============================ Comments For what uses  ===============================*/
+
+
 .whole-font{
-     font-family: 'Poppins', sans-serif;
+     font-family: 'Poppins', sans-serif;          /* for the body tag */
+}
+.font-pop{
+     font-family: 'Mochiy Pop P One', sans-serif;      /* for customed places */
 }
 .cover-fit{
-     object-fit: cover;
+     object-fit: cover;                 /* for carousal resposive */
 }
 .bullets-none{                        /* for li decoration none */
        list-style-type: none;
